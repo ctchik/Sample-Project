@@ -1,5 +1,5 @@
-Vision Statement
-	Description
-	Stakeholders
-	Main objective
-	General functionality
+# Vision Statement
+## Description
+## Stakeholders
+## Main objective
+## General functionality
