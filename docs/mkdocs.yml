@@ -1,6 +1,5 @@
 
 site_name: Sample
 nav:
-    - Home: README.md
-    - Documentations: docs/1-Project.md
+    - Documentation: 1-Project.md
 theme: readthedocs
