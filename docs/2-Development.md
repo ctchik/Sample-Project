@@ -1,14 +1,23 @@
 ### Development Stages (list of tasks)
-**Plan**<br/>
-**Design**<br/>
-**Development**<br/>
-**Test**<br/>
-**Deploy**<br/>
+**Plan**
+
+**Design**
+
+**Development**
+
+**Test**
+
+**Deploy**
+
  
 ### Roadmap
  
+ 
 ### Technology Stack
-**Platform**<br/>
-**Frameworks**<br/>
-**Tools**<br/>
-**Programming Languages**<br/>
+**Platform**
+
+**Frameworks**
+
+**Tools**
+
+**Programming Languages**
