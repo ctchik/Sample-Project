@@ -1,0 +1,5 @@
+
+site_name: Sample
+nav:
+    - Documentation: 1-Project.md
+theme: readthedocs
