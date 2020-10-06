@@ -1,14 +1,9 @@
-Vision Statement
-------
+**Vision Statement**
 
-Description
-------
+**Description**
 
-Stakeholders
-------
+**Stakeholders**
 
-Main objective
-------
+**Main objective**
 
-General functionality
-------
+**General functionality**
