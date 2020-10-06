@@ -1,6 +1,8 @@
-# Design 
-## Architecture 
-## DB schema
-## Workflow (map with requirement)
+### Design 
+**Architecture**
 
-# Test Case (map with requirement)
+**DB schema**
+
+**Workflow**(map with requirement)
+
+### Test Case (map with requirement)
