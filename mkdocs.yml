@@ -1,6 +1,6 @@
 
 site_name: Sample
-pages:
+nav:
     - Project: 1-Project.md
     - Development: 2-Development.md
     - Requirement: 3-Requirement.md
