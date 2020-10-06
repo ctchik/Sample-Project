@@ -1,5 +1,10 @@
 
 site_name: Sample
 nav:
-    - Documentation: 1-Project.md
+    - Project: 1-Project.md
+    - Development: 2-Development.md
+    - Requirement: 3-Requirement.md
+    - Design: 4-Design.md
+    - Installation: 5-Installation.md
+    - User Guide: 6-UserGuide.md
 theme: readthedocs
