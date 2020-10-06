@@ -1,6 +1,5 @@
-theme:
-    name: readthedocs
-    highlightjs: true
-    hljs_languages:
-        - yaml
-        - rust
+site_name: Sample
+nav:
+    - Home: README.md
+    - Documentations: docs/1-Project.md
+theme: readthedocs
